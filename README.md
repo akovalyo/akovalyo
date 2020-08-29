@@ -1,6 +1,4 @@
-<p align='center'>
-  <h2>Hi, I'm Alex 👋</h2>
-</p>
+## Hi, I'm Alex 👋
 
 **How to reach me:**
 
@@ -20,24 +18,65 @@
 [3]: https://www.instagram.com/akovalyo/
 [4]: mailto:al.kovalyov@gmail.com
 
+## Languages and tools
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>C</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Python</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Dart</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Assembly x86 64bit</b></span><br><br><br>
+        <img height="64px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Docker</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Flutter</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Git</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Jupyter Notebook</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>PyTorch</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>VS Code</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Vim</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Wordpress</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akovalyo&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-<!--
-**akovalyo/akovalyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
