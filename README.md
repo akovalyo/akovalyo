@@ -14,16 +14,19 @@
 [![twitter][2.1]][2]
 [![instagram][3.1]][3]
 [![email][4.1]][4]
+[![email][5.1]][5]
 
 [1.1]: https://img.icons8.com/plasticine/96/000000/linkedin.png
 [2.1]: https://img.icons8.com/plasticine/100/000000/twitter.png
 [3.1]: https://img.icons8.com/plasticine/100/000000/instagram-new.png
 [4.1]: https://img.icons8.com/plasticine/100/000000/gmail.png
+[5.1]: https://github.com/akovalyo/akovalyo/blob/master/web.png
 
 [1]: https://www.linkedin.com/in/alexandrkovalyov/
 [2]: https://twitter.com/al_kovalyov
 [3]: https://www.instagram.com/akovalyo/
 [4]: mailto:al.kovalyov@gmail.com
+[5]: http://alexkovalyov.com/
 
 ## Languages and tools
 
