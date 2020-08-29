@@ -1,7 +1,14 @@
+<p align="center">
+  <img src="https://github.com/akovalyo/akovalyo/blob/master/panic_res.jpg">
+</p>
+
 ## Hi, I'm Alex 👋
 
-**How to reach me:**
+<p>Studying at   <img src="https://github.com/akovalyo/akovalyo/blob/master/42sv.png" width="80"></p>
 
+&nbsp;
+
+**How to reach me:**
 
 [![linkedin][1.1]][1]
 [![twitter][2.1]][2]
