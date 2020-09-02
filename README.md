@@ -26,7 +26,7 @@
 [2]: https://twitter.com/al_kovalyov
 [3]: https://www.instagram.com/akovalyo/
 [4]: mailto:al.kovalyov@gmail.com
-[5]: http://alexkovalyov.com/
+[5]: https://akovalyo.github.io/
 
 ## Languages and tools
 
