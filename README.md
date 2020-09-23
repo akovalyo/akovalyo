@@ -28,6 +28,17 @@
 [4]: mailto:al.kovalyov@gmail.com
 [5]: https://akovalyo.github.io/
 
+___
+|||
+|---|---|
+|[GIT Cheat Sheet](https://akovalyo.github.io/2020/08/21/git_cheatsheet/)|[GNU Make](https://www.gnu.org/software/make/manual/make.html)|
+|[Github Markdown](https://akovalyo.github.io/2020/09/18/github_markdown/)||
+|[Emoji for github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)||
+
+
+
+___
+
 ## Languages and tools
 
 <table>
