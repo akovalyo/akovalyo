@@ -26,7 +26,7 @@
 [2]: https://twitter.com/al_kovalyov
 [3]: https://www.instagram.com/akovalyo/
 [4]: mailto:al.kovalyov@gmail.com
-[5]: https://akovalyo.github.io/
+[5]: https://alexkovalyov.com/
 
 ___
 
@@ -76,19 +76,28 @@ ___
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Jupyter Notebook</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
+        <span><b>VS Code</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>PyTorch</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+        <span><b>Jupyter Notebook</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>VS Code</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <span><b>Colab</b></span><br><br><br>
+        <img height="64px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
+      <td width="25%" align="center">
+        <span><b>Tensorflow</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
+      <td width="25%" align="center">
+        <span><b>Pytorch</b></span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
+      </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span><b>Vim</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
@@ -96,6 +105,12 @@ ___
       <td width="25%" align="center">
         <span><b>Wordpress</b></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b></b></span><br><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span><b></b></span><br><br><br>
       </td>
     </tr>
   </tbody>
