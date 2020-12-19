@@ -4,8 +4,7 @@
 **[GitHub Markdown info page](https://help.github.com/en/github/writing-on-github)**
 
 ***
-
-* <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md">Emoji cheat sheet</a>
+* :+1:[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):vulcan_salute:
 * <a href="#headers">Headers</a>
 * <a href="#phrase">Phrase emphasis</a>
 * <a href="#lists">Lists</a>
@@ -20,7 +19,7 @@
 
 
 ***
-<a id="headers">
+
 ## Headers
 ```
 # H1
@@ -38,7 +37,7 @@
 ###### H6
 
 ***
-<a id="phrase">
+
 ## Phrase emphasis
 ```
 Italics *text* or _text_
@@ -349,10 +348,6 @@ Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
-
-***
-
-### :+1:[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):vulcan_salute:
 
 ***
 
