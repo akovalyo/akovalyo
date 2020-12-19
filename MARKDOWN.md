@@ -5,17 +5,17 @@
 
 ***
 * :+1:[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):vulcan_salute:
-* <a href="#headers">Headers</a>
-* [Phrase emphasis](#phrase emphasis)
-* <a href="#lists">Lists</a>
-* <a href="#text">Dropdown text</a>
-* <a href="#links">Links</a>
-* <a href="#code">Code blocks</a>
-* <a href="#hrz">Horizontal rule</a>
-* <a href="#tables">Tables</a>
-* <a href="#images">Images</a>
-* <a href="#va">Video and audio</a>
-* <a href="#va">Ignoring Markdown formatting</a>
+* [Headers](#Headers)
+* [Phrase emphasis](#Phrase_emphasis)
+* [Lists](#Lists)
+* [Dropdown text](#Text)
+* [Links](#Links)
+* [Code blocks](#Code_blocks)
+* [Horizontal rule](#Horizontal_rule)
+* [Tables](#Tables)
+* [Images](#Images)
+* [Video and audio](#Video_and_audio)
+* [Ignoring Markdown formatting](#Ignoring_Markdown_formatting)
 
 
 ***
@@ -38,7 +38,7 @@
 
 ***
 
-## Phrase emphasis
+## Phrase_emphasis
 ```
 Italics *text* or _text_
 Bold **text** or __text__
@@ -243,7 +243,7 @@ Reference [link][1] which you [define][2] elsewhere in your [document][3].
 
 ***
 
-## Code blocks
+## Code_blocks
 
 ```
 Inline `code` has `back-ticks` around it.
@@ -298,7 +298,7 @@ Dos:        dos, bat, cmd
 
 ***
 
-## Horizontal rule
+## Horizontal_rule
 
 ```
 * * *
@@ -360,7 +360,7 @@ Markdown | Less | Pretty
 
 ***
 
-## Video and audio
+## Video_and_audio
 
 * **Variant 1** - Video from youtube
 
@@ -380,7 +380,7 @@ Markdown | Less | Pretty
 ![](filename.mp3)
 ```
 
-## Ignoring Markdown formatting
+## Ignoring_Markdown_formatting
 
 To ignore Markdown formatting use ```\``` before the Markdown character.
 
