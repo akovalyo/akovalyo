@@ -46,71 +46,72 @@ ___
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>C</b></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
+        <span><b>C/C++</b></span><br>
+        <img height="54px" src="https://cdn.svgporn.com/logos/c.svg">
+        <img height="54px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Python</b></span><br><br><br>
+        <span><b>Python</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Dart</b></span><br><br><br>
+        <span><b>Dart</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Assembly x86 64bit</b></span><br><br><br>
+        <span><b>Assembly x86 64bit</b></span><br>
         <img height="64px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>Docker</b></span><br><br><br>
+        <span><b>Docker</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Flutter</b></span><br><br><br>
+        <span><b>Flutter</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Git</b></span><br><br><br>
+        <span><b>Git</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>VS Code</b></span><br><br><br>
+        <span><b>VS Code</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>Jupyter Notebook</b></span><br><br><br>
+        <span><b>Jupyter Notebook</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/jupyter.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Colab</b></span><br><br><br>
+        <span><b>Colab</b></span><br>
         <img height="64px" src="https://colab.research.google.com/img/colab_favicon_256px.png">
       <td width="25%" align="center">
-        <span><b>Tensorflow</b></span><br><br><br>
+        <span><b>Tensorflow</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Pytorch</b></span><br><br><br>
+        <span><b>Pytorch</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
       </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><b>Vim</b></span><br><br><br>
+        <span><b>Vim</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Wordpress</b></span><br><br><br>
+        <span><b>Wordpress</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span><b></b></span><br><br><br>
+        <span><b></b></span><br>
       </td>
       <td width="25%" align="center">
-        <span><b></b></span><br><br><br>
+        <span><b></b></span><br>
       </td>
     </tr>
   </tbody>
