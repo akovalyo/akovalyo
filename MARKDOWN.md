@@ -6,7 +6,7 @@
 ***
 * :+1:[Emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md):vulcan_salute:
 * <a href="#headers">Headers</a>
-* <a href="#phrase">Phrase emphasis</a>
+* <a href="#phrase emphasis">Phrase emphasis</a>
 * <a href="#lists">Lists</a>
 * <a href="#text">Dropdown text</a>
 * <a href="#links">Links</a>
