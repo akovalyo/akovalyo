@@ -59,8 +59,25 @@ ___
         <img height="64px" src="https://cdn.svgporn.com/logos/dart.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Assembly x86 64bit</b></span><br>
-        <img height="64px" src="https://hackr.io/tutorials/assembly-language/logo-assembly-language.svg?ver=1587718148">
+        <span><b>JavaScript</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>HTML</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>CSS</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Wordpress</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span><b></b></span><br>
       </td>
     </tr>
     <tr valign="top">
@@ -96,22 +113,6 @@ ___
       <td width="25%" align="center">
         <span><b>Pytorch</b></span><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/pytorch.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span><b>Vim</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b>Wordpress</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><b></b></span><br>
-      </td>
-      <td width="25%" align="center">
-        <span><b></b></span><br>
       </td>
     </tr>
   </tbody>
