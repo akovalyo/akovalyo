@@ -4,7 +4,7 @@
 
 ## Hi, I'm Alex 👋
 
-<p>Student at   <img src="https://github.com/akovalyo/akovalyo/blob/master/42sv.png" width="80"></p>
+<p>Software Developer at <img src="https://github.com/akovalyo/akovalyo/blob/master/whitedew.png" width="80"></p>
 
 &nbsp;
 
