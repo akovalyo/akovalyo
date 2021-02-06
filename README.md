@@ -4,7 +4,7 @@
 
 ## Hi, I'm Alex 👋
 
-<p>Software Developer, Co-Founder at <img src="https://github.com/akovalyo/akovalyo/blob/master/whitedew.png" width="80"></p>
+<p>Software Developer, Co-founder at <img src="https://github.com/akovalyo/akovalyo/blob/master/whitedew.png" width="80"></p>
 
 &nbsp;
 
