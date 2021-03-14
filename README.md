@@ -73,11 +73,12 @@ ___
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span><b>Wordpress</b></span><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/wordpress-icon.svg">
+        <span><b>React</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="25%" align="center">
-        <span><b></b></span><br>
+        <span><b>Flask</b></span><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flask.svg">
       </td>
     </tr>
     <tr valign="top">
