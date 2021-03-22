@@ -33,8 +33,8 @@ ___
 ||||
 |---|---|---|
 |[GIT Cheat Sheet](https://alexkovalyov.com/2020/08/21/git_cheatsheet/)|[GNU Make](https://www.gnu.org/software/make/manual/make.html)|[ASCII](https://theasciicode.com.ar/)|
-|[Github Markdown](https://alexkovalyov.com/2020/09/18/github_markdown/)|[VIM Cheat Sheet](https://alexkovalyov.com/docs/vim/)||
-|[Emoji for github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|[Python env management](https://alexkovalyov.com/docs/python)||
+|[Github Markdown](https://alexkovalyov.com/2020/09/18/github_markdown/)|[Python env management](https://alexkovalyov.com/#2021-01-26-python)||
+|[Emoji for github](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)|||
 
 
 
