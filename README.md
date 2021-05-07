@@ -119,4 +119,4 @@ ___
   </tbody>
 </table>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akovalyo&hide=prs,issues,contribs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=akovalyo&hide=issues&show_icons=true&theme=gruvbox&count_private=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
