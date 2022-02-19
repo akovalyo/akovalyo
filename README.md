@@ -23,7 +23,7 @@
 [5.1]: https://github.com/akovalyo/akovalyo/blob/master/web.png
 
 [1]: https://www.linkedin.com/in/alexandrkovalyov/
-[2]: https://twitter.com/al_kovalyov
+[2]: https://twitter.com/alexkv_eth
 [3]: https://www.instagram.com/akovalyo/
 [4]: mailto:al.kovalyov@gmail.com
 [5]: https://alexkovalyov.com/
